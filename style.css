@@ -1,0 +1,20 @@
+.a-no-underline {
+    text-decoration: none;
+}
+
+.store-name {
+    font-family: 'Alex Brush';
+    color:cornflowerblue; 
+}
+
+.service-name {
+    font-family: 'Rise of Beauty', sans-serif;
+    font-weight: 1000;
+    color:cornflowerblue;
+    margin-left: 1%;
+}
+
+#social-media li {
+    margin-right: 5%;
+    display: inline;
+}
